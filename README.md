@@ -8,6 +8,8 @@ adb shell am start -W -a android.intent.action.VIEW -d "receitafacil://receitafa
 
 Ai se você quiser pode trocar o 5 por qualquer número entre 1 e 6
 
+Apesar do nome o App lista os personagens do the office, comecei fazendo uma coisa e acabei fazendo outra depois eu mudo ;)
+
 
 Valeu, qualquer coisa to por aqui 
 Pode falar comigo pelo @rafas_abreu lá no instagram 
